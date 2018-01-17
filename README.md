@@ -1,4 +1,4 @@
-# Lighting_with_bunny
+# Lighting_with_bunny [Computre Graphics]
 
 ▶ Stanford Bunny
 
